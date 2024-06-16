@@ -384,3 +384,16 @@ width: 80px;}
 .xy{
   text-align: center;
 }
+
+
+.alert{
+  position: relative;
+  width: 100%;
+  background: rgba(248, 174, 84, 0.836);
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 900;
+  display: none;
+}
